@@ -3,6 +3,10 @@
 ## 📌 Description  
 This project provides a step-by-step guide to installing and configuring **Samba** on a Linux (Fedora Workstation) server to facilitate file and printer sharing with Windows and Linux clients using the **SMB (Server Message Block)** protocol.  
 
+## 📹 Live Demonstration  
+🎥 **[Watch the Samba Demo]([https://drive.google.com/file/d/1HmIVsIq2giyvD6lYHjOV12s3P9tfzO0d/view?usp=sharing](https://drive.google.com/file/d/115SW7ip4nXJHmMK2KIqX0naoLMceYqgF/view?usp=sharing))** 
+
+
 ## 📁 Contents  
 The guide covers the following topics:  
 - 📌 Introduction to **Samba** and how it works  
